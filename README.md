@@ -1,0 +1,1 @@
+Recommender System is a system that seek to predict or filter prefrences according to the user's choice Recommender system are utilize is a variety of areas including movies,news,books,research articles,search queries,social tags,and products in general recomender system produce a list of recommendation in any of the two ways-
